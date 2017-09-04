@@ -1,0 +1,14 @@
+{
+  "name": "demobass",
+  "version": "1.0.0",
+  "description": "projeto",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "valterf",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
